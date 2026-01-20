@@ -1,12 +1,12 @@
 ## 🚀 About Me
 
-🎓 I  a **Junior front-end web developer** (specializing in **React Applications** and **Vue Applications**). Since May 2023, I have been working as a junior front-end developer for **VIIA Studio**, where my main tech stack is Vue/Next.js.
+🎓 Since 2023, I have been working as a front-end developer with **VIIA Studio** (React, Vue). Since 2024, I have been building full-scale e-commerce stores and web services for **Late Developers** (React, Vue, Node.js).
+
+👨‍💻 I had experience as a project **manager on IT projects** (new online service for the [**Polish National Football Federation**](https://www.pzpn.pl)). I also worked as a copywriter.
 
 👨‍💻 Since 02/2023, I have been developing skills in **Vue**, **Nuxt** and **TypeScript** by completing **vueschool.io** courses. I've also finished the **Mastering Nuxt 3** course.
 
 👨‍💻 Between 02/2022 - 12/2022 I participated in a 10-month **Full Stack Developer** Kodilla bootcamp , during which I created 3 large projects using JavaScript, React and NodeJS. During that course, each week, I met 1:1 with mentor for an hour of code review and pair programming. One of projetcs was an e-commerce group project, led by PM in Kanban methodology, with all aspects of commercial programming.
-
-👨‍💻 I had experience as a project **manager on IT projects** (new online service for the [**Polish National Football Federation**](https://www.pzpn.pl)). I also worked as a copywriter.
 
 🎸 My main passion outside the world of tech is collecting **vinyl records** (I have around 300 LPs), **concert and festival tourism**.  Whenever I can, I pack my car and **travel** with my family to new places, escpecially mountains. We love **austrian Alps and lakes**. Last year I've started slow jogging - great way to move your bones when you spend a lot of time on debugging your code.
 
@@ -20,7 +20,6 @@
 ### Languages
 
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### Front-End Development
 
@@ -57,9 +56,9 @@
 
 ## 🔗 Links
 
-[![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://marcindev.netlify.app/)
+[![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://latedevelopers.io/)
 [![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://marcindev.netlify.app/images/resume/Marcin-Bieniek-CV-eng-102023.pdf)
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/marcin-bieniek-617565271)
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/MarcinBieniek?tab=repositories)
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:mbieniek.dev@gmail.com)
+[![email](https://img.shields.io/badge/email-8A2BE2)](mailto:contact@latevelopers.io)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marcinbieniek_vinyl/)
