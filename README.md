@@ -60,5 +60,5 @@
 [![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://marcindev.netlify.app/images/resume/Marcin-Bieniek-CV-eng-102023.pdf)
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/marcin-bieniek-617565271)
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/MarcinBieniek?tab=repositories)
-[![email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=GitHub&logoColor=white)](mailto:contact@latevelopers.io)
+[![email](https://img.shields.io/badge/Email-000000?style=for-the-badge)](mailto:contact@latevelopers.io)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marcinbieniek_vinyl/)
